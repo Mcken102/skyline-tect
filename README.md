@@ -1,1 +1,1 @@
-# skyline-tect
+# skyline-tech
